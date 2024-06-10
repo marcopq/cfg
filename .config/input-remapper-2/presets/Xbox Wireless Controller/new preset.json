@@ -28,34 +28,6 @@
     {
         "input_combination": [
             {
-                "type": 3,
-                "code": 4,
-                "origin_hash": "60efbd99dd61e99a6f813629169c8063"
-            }
-        ],
-        "target_uinput": "gamepad",
-        "output_type": 3,
-        "output_code": 4,
-        "mapping_type": "analog",
-        "deadzone": 0.38
-    },
-    {
-        "input_combination": [
-            {
-                "type": 3,
-                "code": 3,
-                "origin_hash": "60efbd99dd61e99a6f813629169c8063"
-            }
-        ],
-        "target_uinput": "gamepad",
-        "output_type": 3,
-        "output_code": 3,
-        "mapping_type": "analog",
-        "deadzone": 0.38
-    },
-    {
-        "input_combination": [
-            {
                 "type": 1,
                 "code": 304,
                 "origin_hash": "60efbd99dd61e99a6f813629169c8063"
@@ -190,32 +162,6 @@
     {
         "input_combination": [
             {
-                "type": 3,
-                "code": 2,
-                "origin_hash": "60efbd99dd61e99a6f813629169c8063"
-            }
-        ],
-        "target_uinput": "gamepad",
-        "output_type": 3,
-        "output_code": 2,
-        "mapping_type": "analog"
-    },
-    {
-        "input_combination": [
-            {
-                "type": 3,
-                "code": 5,
-                "origin_hash": "60efbd99dd61e99a6f813629169c8063"
-            }
-        ],
-        "target_uinput": "gamepad",
-        "output_type": 3,
-        "output_code": 5,
-        "mapping_type": "analog"
-    },
-    {
-        "input_combination": [
-            {
                 "type": 1,
                 "code": 317,
                 "origin_hash": "60efbd99dd61e99a6f813629169c8063"
@@ -236,5 +182,59 @@
         "target_uinput": "gamepad",
         "output_symbol": "BTN_THUMBR",
         "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 5,
+                "origin_hash": "fd59f7bcef9cde578fc75b2279c2741d"
+            }
+        ],
+        "target_uinput": "gamepad",
+        "output_type": 3,
+        "output_code": 4,
+        "mapping_type": "analog",
+        "deadzone": 0.38
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 9,
+                "origin_hash": "fd59f7bcef9cde578fc75b2279c2741d"
+            }
+        ],
+        "target_uinput": "gamepad",
+        "output_type": 3,
+        "output_code": 5,
+        "mapping_type": "analog"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 10,
+                "origin_hash": "fd59f7bcef9cde578fc75b2279c2741d"
+            }
+        ],
+        "target_uinput": "gamepad",
+        "output_type": 3,
+        "output_code": 2,
+        "mapping_type": "analog"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 2,
+                "origin_hash": "fd59f7bcef9cde578fc75b2279c2741d"
+            }
+        ],
+        "target_uinput": "gamepad",
+        "output_type": 3,
+        "output_code": 3,
+        "mapping_type": "analog",
+        "deadzone": 0.38
     }
 ]
